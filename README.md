@@ -1,3 +1,15 @@
+## ABOUT
+Working with Foundry for the first time through Patrick Collins cours https://www.youtube.com/watch?v=sas02qSFZ74
+
+## GETTING STARTED
+
+## REQUIREMENTS
+
+## QUICKSTART
+git clone  https://github.com/zen2see/foundry-fundme 
+cd foundry-fundme
+forge build
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
